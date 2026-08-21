@@ -1,0 +1,17 @@
+{
+  "date": "2026-08-12",
+  "scope": "first-time static portfolio build",
+  "font_stack": "Instrument Serif, IBM Plex Sans, IBM Plex Mono",
+  "palette": "OKLCH semantic tokens in tokens.css",
+  "motion": "motion-cut with restrained CSS reveal and reduced-motion fallback",
+  "spacing": "named 4-point-compatible custom-property scale",
+  "framework": "vanilla static HTML, CSS and JavaScript",
+  "preserved": [],
+  "introduced": [
+    "Portfolio Grid macrostructure",
+    "N9 edge-aligned navigation",
+    "Ft6 letter-close footer",
+    "generated process-map enrichment",
+    "slop-test and responsive gates"
+  ]
+}
