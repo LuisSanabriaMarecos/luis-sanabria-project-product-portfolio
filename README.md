@@ -38,11 +38,13 @@ The site is static HTML, CSS and JavaScript with no build step. Any simple local
 
 ## Publishing
 
-GitHub Pages can serve the site from the repository root on the default branch. The `.nojekyll` file keeps the static routes and assets untouched.
+Live site: [luissanabriamarecos.github.io/luis-sanabria-project-product-portfolio](https://luissanabriamarecos.github.io/luis-sanabria-project-product-portfolio/)
+
+GitHub Pages serves the site from `main` and `/ (root)`. The `.nojekyll` file keeps the static routes and assets untouched.
 
 ## Promotion copy
 
-Ready-to-edit LinkedIn and Upwork text is included in [`PROMOTION_COPY.md`](PROMOTION_COPY.md). Replace `[PORTFOLIO_URL]` with the final GitHub Pages address after publishing.
+Ready-to-use LinkedIn and Upwork text, with the live URL included, is available in [`PROMOTION_COPY.md`](PROMOTION_COPY.md).
 
 ## Evidence note
 

@@ -1,6 +1,6 @@
 # Promotion copy
 
-Replace `[PORTFOLIO_URL]` with the published GitHub Pages address.
+Published portfolio: https://luissanabriamarecos.github.io/luis-sanabria-project-product-portfolio/
 
 ## LinkedIn post — English
 
@@ -14,7 +14,7 @@ It includes three views for different needs:
 
 The examples are based on my professional experience in digital marketing, software delivery and telecommunications. Illustrative diagrams show how I work; they do not expose confidential employer material.
 
-Portfolio: [PORTFOLIO_URL]
+Portfolio: https://luissanabriamarecos.github.io/luis-sanabria-project-product-portfolio/
 
 I’m based in Asunción, Paraguay, and available for remote collaboration.
 
@@ -30,7 +30,7 @@ Tiene tres recorridos según la necesidad:
 
 Los ejemplos se basan en mi experiencia en marketing digital, desarrollo de software y telecomunicaciones. Los diagramas son muestras ilustrativas de mi forma de trabajo y no contienen material confidencial de empleadores.
 
-Portafolio: [PORTFOLIO_URL]
+Portafolio: https://luissanabriamarecos.github.io/luis-sanabria-project-product-portfolio/
 
 Estoy en Asunción, Paraguay, y disponible para colaborar de forma remota.
 
@@ -52,7 +52,7 @@ I can support your team with:
 - Digital campaign and web-delivery coordination
 - Technical documentation and operational follow-through
 
-I’m based in Asunción, Paraguay, and available for remote projects. You can review my working approach and experience here: [PORTFOLIO_URL]
+I’m based in Asunción, Paraguay, and available for remote projects. You can review my working approach and experience here: https://luissanabriamarecos.github.io/luis-sanabria-project-product-portfolio/
 
 ## Suggested Upwork portfolio items
 
